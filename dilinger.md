@@ -1,7 +1,6 @@
 # Challenges
 
 ## The subject
-
 ![challenge_image](image/challenges.png)
 
 &nbsp;
