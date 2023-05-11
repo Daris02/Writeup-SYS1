@@ -61,5 +61,5 @@ You will get a text at hexdecimal
 1. Copy link in button start challenge in new tabs in your navigator who download file `ch18.bin`
 2. Open this file `ch18.bin` on wireshark
 3. Open wireless on tool bar of wireshark, click on bluetooth device and you got `name` and `br_addr` who is the address mac
-4. Concat address mac whit phone name to get the password
+4. Concat address mac whit phone name and convert to SHA1 to get the password
 ![](image/bth.png)
